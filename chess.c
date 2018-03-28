@@ -23,6 +23,7 @@
     a[1][i] = p;
     a[6][i] = p-32;
     }
+    
     for (i=0;i<9;i++) {
     for (int g=0;g<9; g++){
     printf("%c", a[i][g]);

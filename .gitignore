@@ -1,3 +1,2 @@
-MakeFile
-*.md
-chessviz2
+bin
+build
